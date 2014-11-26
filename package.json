@@ -1,0 +1,22 @@
+{
+  "name": "comment-counter-ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:risingstack/comment-counter-ast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "dependencies": {
+    "ast-traverse": "^0.1.1",
+    "esprima": "^1.2.2"
+  }
+}
