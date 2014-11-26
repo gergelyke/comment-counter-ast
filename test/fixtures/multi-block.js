@@ -1,4 +1,4 @@
-/* This is an empty function*/ /* I have no idea why would I do this*/
+/* This is an empty function*/ /*new block comment in the same line*/
 function noop () {
 
 }
