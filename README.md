@@ -1,5 +1,7 @@
 ## Counter
 
+[![Build Status](https://travis-ci.org/gergelyke/comment-counter-ast.svg)](https://travis-ci.org/gergelyke/comment-counter-ast)
+
 ### Install
 
 ```javascript
