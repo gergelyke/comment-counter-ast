@@ -1,5 +1,11 @@
 ## Counter
 
+### Install
+
+```javascript
+npm install comment-counter-ast --save
+```
+
 ### Usage
 
 ```javascript
