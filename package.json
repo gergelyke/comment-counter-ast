@@ -1,6 +1,6 @@
 {
   "name": "comment-counter-ast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Util to count comments in a JavaScript file",
   "main": "index.js",
   "scripts": {
